@@ -74,7 +74,7 @@ async function createBalanceCard(userData, userID, balance) {
 module.exports = {
     config: {
         name: "balance",
-        aliases: ["bal", "pay", "send"],
+        aliases: ["bal", "pay", "send3"],
         version: "4.5", // বাগ ফিক্সড ভার্সন
         author: "ARIYAN AI",
         countDown: 5,
