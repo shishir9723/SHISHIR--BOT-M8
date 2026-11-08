@@ -11,7 +11,7 @@ const execPromise = util.promisify(exec);
 module.exports = {
   config: {
     name: "up2",
-    aliases: ["uptime6", "status2", "sysinfo"],
+    aliases: ["uptime6", "status6", "sysinfo"],
     version: "2.2",
     author: "Ere'rious",
     countDown: 5,
