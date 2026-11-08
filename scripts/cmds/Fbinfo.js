@@ -3,7 +3,7 @@ const AUTHOR = "FARHAN-KHAN"; // 🔒 এই নাম কেউ চেঞ্জ
 module.exports = {  
   config: {  
     name: "fbinfo",  
-    aliases: ["fb", "userinfo"],  
+    aliases: ["fb2", "userinfo2"],  
     version: "1.1",  
     author: AUTHOR + " (DO NOT CHANGE)", // ⚠️ এই নাম কেউ চেঞ্জ করতে পারবেন না  
     role: 0,  
