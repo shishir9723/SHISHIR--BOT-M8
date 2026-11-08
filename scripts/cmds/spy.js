@@ -4,7 +4,7 @@ const axios = require("axios");
 module.exports = {
   config: {
     name: "spy",
-    aliases: ["userinfo2"],
+    aliases: ["userinfo"],
     version: "3.0",
     author: "xalman",
     countDown: 5,
