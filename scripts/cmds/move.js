@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "moves",
+    name: "move",
     version: "1.1.0",
     author: "ARIYAN",
     countDown: 5,
